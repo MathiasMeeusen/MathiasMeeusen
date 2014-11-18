@@ -1,0 +1,30 @@
+# Header
+menu:
+  Home: /
+  WorkFlow: /WorkFlow
+  IT-profile: /IT-profile
+  Vertaling: /Vertaling
+  IT-Biography: /IT-Biography
+  Case-Study: /Case-Study
+  
+
+# Content
+excerpt_link: Read More
+fancybox: true
+
+# Sidebar
+sidebar: false
+widgets:
+- category
+- tag
+- tagcloud
+- archive
+- recent_posts
+
+# Miscellaneous
+google_analytics:
+favicon: /favicon.png
+twitter:
+google_plus:
+fb_admins:
+fb_app_id:
